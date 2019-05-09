@@ -1,4 +1,4 @@
-FROM node:8.16.0-alpine
+FROM node:10.15.3-alpine
 LABEL maintainer "Dario Alves Junior <darioajr@gmail.com>"
 
 ARG REFRESHED_AT
